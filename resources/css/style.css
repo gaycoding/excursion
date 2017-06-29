@@ -1,0 +1,35 @@
+html {
+  font-family:Verdana;
+  text-align: center;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+/* the mock up says font-weight normal but i wasn't sure bc the page preview from the lesson looks more like bold https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/index.html */
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.copyright {
+  text-align: right;
+}
+
+body {
+  background-color: black;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
